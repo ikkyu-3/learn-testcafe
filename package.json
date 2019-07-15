@@ -1,0 +1,22 @@
+{
+  "name": "learn-testcafe",
+  "version": "1.0.0",
+  "description": "This is sample repository to learn TestCafe.",
+  "main": "index.js",
+  "scripts": {
+    "testcafe": "testcafe"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikkyu-3/learn-testcafe.git"
+  },
+  "author": "Toru Hasegawa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ikkyu-3/learn-testcafe/issues"
+  },
+  "homepage": "https://github.com/ikkyu-3/learn-testcafe#readme",
+  "dependencies": {
+    "testcafe": "^1.3.2"
+  }
+}
